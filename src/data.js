@@ -1,11 +1,11 @@
 export const event = {
   demo: true,
   name: 'QuantumBeers',
-  date: '19 NOV 2026',
-  dateLong: 'Jueves, 19 de noviembre de 2026',
+  date: '3 DIC 2026',
+  dateLong: 'Jueves, 3 de diciembre de 2026',
   time: '18:00 — 23:00',
-  city: 'Madrid',
-  venue: 'Estación orbital · Madrid',
+  city: 'Vitoria-Gasteiz',
+  venue: 'Estación orbital · Vitoria-Gasteiz',
   address: 'Espacio y dirección por confirmar',
   ticketUrl: null,
 };
